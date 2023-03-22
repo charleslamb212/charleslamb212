@@ -14,11 +14,12 @@ I'm a front-end developer based in the Bay Area, California. I'm passionate abou
             </ul>
         <li> 🔭 I am currently Seeking Work! </li>
         <li> 🌽 <b>Interested In:</b> AI, CSS Animation ,Front End Development</li>
-        <li> 🎮 <b>Hobbies:</b>
+        <li> 🎪 <b>Hobbies:</b>
           <ul>
-            <li> SKateboarding </li>
-            <li> Piano </li> 
-            <li> CSS Shapes </li>
+            <li> 🛹 SKateboarding </li>
+            <li> 🛩 Travel </li>
+            <li> 🎹 Piano </li> 
+            <li> 🎨 CSS Shapes </li>
           </ul>
         </li>
         <li> 💬 How was your Day? </li>
