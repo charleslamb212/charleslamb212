@@ -1,6 +1,6 @@
 ![standard](https://user-images.githubusercontent.com/117604017/226823938-235ad89b-d971-4438-ac5d-3c87a6695285.gif)
 
-<h3 align="center">I'm a front-end developer based in the Bay Area, California. I'm passionate about front end development, AI, travel, and I'm always looking for ways to improve my skills and knowledge.</h3>
+<h3 align="center">I'm a front-end developer based in the Bay Area, California. I'm passionate about the inner workings of web development, AI, travel, and I'm always looking for ways to improve my skills and knowledge.</h3>
 <img align="right" alt="computer" width="250" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charleslamb212&label=Profile%20views&color=0e75b6&style=flat" alt="charleslamb212" /> </p>
 
