@@ -1,67 +1,29 @@
-# Hello, I'm Charles 👋
+<h3 align="center">I'm a front-end developer based in the Bay Area, California. I'm passionate about front end development, AI, travel, skateboarding, and I'm always looking for ways to improve my skills and knowledge.</h3>
 
-I'm a front-end developer based in the Bay Area, California. I'm passionate about front end development, AI, travel, skateboarding, and I'm always looking for ways to improve my skills and knowledge. Please get in touch with me here 👇🏼:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=charleslamb212&label=Profile%20views&color=0e75b6&style=flat" alt="charleslamb212" /> </p>
 
-**Social Media:**
+- 🌱 I’m currently learning **Python**
 
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/charles-lamb-892a95a8/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/_charleslamb/)
+- 👨‍💻 All of my projects are available at [https://charleslamb212.github.io/portfolio4/](https://charleslamb212.github.io/portfolio4/)
 
+- 💬 Ask me about **Javascript, React, Bootstrap**
 
-<table>
-  <tr>
-    <td style="width:50%">
-      <ul>
-        <li> 📛 <b>Name:</b> Charles Lamb</li>
-        <li> 🌱 <b>Active Projects: </b></li>
-            <ul>
-                <li>Find One and Skate</li>
-                <li>Dictionary App</li>
-            </ul>
-        <li> 🔭 I am currently Seeking Work! </li>
-        <li> 🌽 <b>Interested In:</b> AI, CSS Animation ,Front End Development</li>
-        <li> 🎪 <b>Hobbies:</b>
-          <ul>
-            <li> 🛹 Skateboarding </li>
-            <li> 🛩 Travel </li>
-            <li> 🎹 Piano </li> 
-            <li> 🎨 CSS Shapes </li>
-          </ul>
-        </li>
-        <li> 💬 How was your Day? </li>
-        <li> 📫 <b>Want to reach out?</b> Hit me up with an email or direct message! </li>
-        <li> 🗃 <a href="https://drive.google.com/drive/folders/1F_5yni5HJDPK5VjpCZtugSyeM_gv6zwK"> My Resume! </a> </li>
-    </td>
-    <td style="width:50%">
-        <img src= ![Code typing](https://user-images.githubusercontent.com/117604017/226798596-31db432b-7ebe-409e-af15-481e4a5d6731.gif)
-style="width:500px"/>
-        <div>
-            <a href="https://storyset.com/work">Work illustrations by Storyset</a>
-           
-        </div>
-    </td>
-  </tr>
-</table> 
+- 📫 How to reach me **charlesandrewlamb@gmail.com**
 
-<h2> ⚡ Tech Skills & Tools</h2>
+- 📄 Resume [https://drive.google.com/drive/folders/1F_5yni5HJDPK5VjpCZtugSyeM_gv6zwK](https://drive.google.com/drive/folders/1F_5yni5HJDPK5VjpCZtugSyeM_gv6zwK)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
- ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+- ⚡ Fun fact **I'm a skateboarder for over 25 years! 🛹**
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=charleslamb212&show_icons=true)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/@charleslamb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@charleslamb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/charles-lamb-892a95a8/8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/charles-lamb-892a95a8/8/" height="30" width="40" /></a>
+<a href="https://instagram.com/_charleslamb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_charleslamb" height="30" width="40" /></a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charleslamb212&layout=compact)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=charleslamb212.charleslamb212)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charleslamb212&show_icons=true&locale=en&layout=compact" alt="charleslamb212" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charleslamb212&show_icons=true&locale=en" alt="charleslamb212" /></p>
