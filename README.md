@@ -26,7 +26,8 @@ I'm a front-end developer based in the Bay Area, California. I'm passionate abou
         <li> 🗃 <a href="https://drive.google.com/drive/folders/1F_5yni5HJDPK5VjpCZtugSyeM_gv6zwK"> My Resume! </a> </li>
     </td>
     <td style="width:50%">
-        <img src=./Assets/img/ScrollingItem.gif style="width:500px"/>
+        <img src= ![Code typing](https://user-images.githubusercontent.com/117604017/226798596-31db432b-7ebe-409e-af15-481e4a5d6731.gif)
+style="width:500px"/>
         <div>
             <a href="https://storyset.com/work">Work illustrations by Storyset</a>
            
