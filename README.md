@@ -28,8 +28,8 @@ I'm a front-end developer based in the Bay Area, California. I'm passionate abou
     <td style="width:50%">
         <img src=./Assets/img/ScrollingItem.gif style="width:500px"/>
         <div>
-            <a href="https://storyset.com/web">Web illustrations by Storyset</a>
-            <p>Animated using Figma, <a href="https://www.figma.com/community/plugin/733025261168520714/Figmotion">Figmotion</a><p>
+            <a href="https://storyset.com/work">Work illustrations by Storyset</a>
+           
         </div>
     </td>
   </tr>
