@@ -1,6 +1,12 @@
 # Hello, I'm Charles 👋
 
-I'm a front-end developer based in the Bay Area, California. I'm passionate about front end development, AI, travel, skateboarding, and I'm always looking for ways to improve my skills and knowledge.
+I'm a front-end developer based in the Bay Area, California. I'm passionate about front end development, AI, travel, skateboarding, and I'm always looking for ways to improve my skills and knowledge. Please get in touch with me here 👇🏼:
+
+**Social Media:**
+
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/charles-lamb-892a95a8/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/_charleslamb/)
+
 
 <table>
   <tr>
@@ -16,7 +22,7 @@ I'm a front-end developer based in the Bay Area, California. I'm passionate abou
         <li> 🌽 <b>Interested In:</b> AI, CSS Animation ,Front End Development</li>
         <li> 🎪 <b>Hobbies:</b>
           <ul>
-            <li> 🛹 SKateboarding </li>
+            <li> 🛹 Skateboarding </li>
             <li> 🛩 Travel </li>
             <li> 🎹 Piano </li> 
             <li> 🎨 CSS Shapes </li>
@@ -37,7 +43,7 @@ style="width:500px"/>
   </tr>
 </table> 
 
-<h2> ⚡ Tech Skills</h2>
+<h2> ⚡ Tech Skills & Tools</h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -50,7 +56,12 @@ style="width:500px"/>
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
+ ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=charleslamb212&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charleslamb212&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=charleslamb212.charleslamb212)
