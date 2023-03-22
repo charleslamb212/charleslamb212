@@ -14,7 +14,7 @@
 
 - 📄 Resume [https://drive.google.com/drive/folders/1F_5yni5HJDPK5VjpCZtugSyeM_gv6zwK](https://drive.google.com/drive/folders/1F_5yni5HJDPK5VjpCZtugSyeM_gv6zwK)
 
-- ⚡ Fun fact **I'm a skateboarder for over 25 years! 🛹**
+- ⚡ Fun fact **I also skateboard 🛹**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
