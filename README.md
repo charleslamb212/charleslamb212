@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **charlesandrewlamb@gmail.com**
 
-- 📄 Resume [https://drive.google.com/drive/folders/1F_5yni5HJDPK5VjpCZtugSyeM_gv6zwK](https://drive.google.com/drive/folders/1F_5yni5HJDPK5VjpCZtugSyeM_gv6zwK)
+- 📄 My [Resume](https://drive.google.com/drive/folders/1F_5yni5HJDPK5VjpCZtugSyeM_gv6zwK)
 
 - ⚡ Fun fact **I also skateboard 🛹**
 
