@@ -24,16 +24,19 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/TR/html5/" title="HTML5" target="blank" rel="noopener noreferrer"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="50px" height="50px"></a>
-<a href="https://www.w3.org/TR/CSS/" title="CSS3" target="blank" rel="noopener noreferrer"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="50px" height="50px"></a>
+<p align="left"> <a href="https://www.w3.org/TR/html5/" title="HTML5" target="blank" rel="noopener noreferrer"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="60px" height="60px"></a>
+<a href="https://www.w3.org/TR/CSS/" title="CSS3" target="blank" rel="noopener noreferrer"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="60px" height="60px"></a>
 <a href="https://getbootstrap.com/" title="Bootstrap" target="blank" rel="noopener noreferrer"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="50px" height="50px"></a>
+<a href="https://material-ui.com/" title="Material UI"><img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="50px" height="50px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="blank" rel="noopener noreferrer"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="50px" height="50px"></a>
 <a href="https://expressjs.com/" title="Express" target="blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/102000821/227614220-d4bb65dd-ada9-4bf6-898f-0829013a332e.png" alt="Express" width="50px" height="50px"></a>
 <a href="https://nodejs.org/" title="Node.js" target="blank" rel="noopener noreferrer"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="50px" height="50px"></a>
 <a href="https://reactjs.org/" title="React" target="blank" rel="noopener noreferrer"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="50px" height="50px"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL" target="blank" rel="noopener noreferrer"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="50px" height="50px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB" target="blank" rel="noopener noreferrer"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="50px" height="50px"></a> 
-<img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849659/mapbox_ik768l.png" alt="mapbox-logo"></p>
+<img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849659/mapbox_ik768l.png" alt="mapbox-logo"  height="40px">
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="50px" height="50px"></a>
+</p>
 
 ![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=charleslamb212&show_icons=true&theme=merko)
 
