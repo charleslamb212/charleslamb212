@@ -34,7 +34,7 @@
 <a href="https://reactjs.org/" title="React" target="blank" rel="noopener noreferrer"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="50px" height="50px"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL" target="blank" rel="noopener noreferrer"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="50px" height="50px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB" target="blank" rel="noopener noreferrer"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="50px" height="50px"></a> 
-<img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849659/mapbox_ik768l.png" alt="mapbox-logo"  height="40px">
+<a href="https://www.mapbox.com" title="Mapbox" target="blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849659/mapbox_ik768l.png" alt="mapbox-logo"  height="40px">
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="50px" height="50px"></a>
 </p>
 
