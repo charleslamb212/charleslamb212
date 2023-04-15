@@ -1,6 +1,6 @@
 ![standard](https://user-images.githubusercontent.com/117604017/226823938-235ad89b-d971-4438-ac5d-3c87a6695285.gif)
 
-<h3 align="center">I'm a front-end developer based in the Bay Area, California. I'm passionate about the inner workings of web development, AI, travel, and I'm always looking for ways to improve my skills and knowledge.</h3>
+<h3 align="center">I'm a web developer based in the Bay Area, California. Professional with 15+ years of experience working for globally renowned companies with revenues ranging from $600m to $5.7b. Critical thinker with a passion for creating intuitive business solutions. Committed to staying current with emerging trends and technologies.</h3>
 <img align="right" alt="computer" width="250" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charleslamb212&label=Profile%20views&color=0e75b6&style=flat" alt="charleslamb212" /> </p>
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+<a href="https://discord.gg/Charles Lamb#1776" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Charles Lamb#1776" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/charles-lamb-892a95a8/8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/charles-lamb-892a95a8/8/" height="30" width="40" /></a>
 <a href="https://instagram.com/_charleslamb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_charleslamb" height="30" width="40" /></a>
 </p>
