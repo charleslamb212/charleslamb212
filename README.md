@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=30&pause=1000&color=9AF71A&width=435&lines=Web+Developer)](https://git.io/typing-svg)
 
 <h3 align="center">I'm a web developer based in the Bay Area, California. Professional with 15+ years of experience working for globally renowned companies with revenues ranging from $600m to $5.7b. Critical thinker with a passion for creating intuitive business solutions. Committed to staying current with emerging trends and technologies.</h3>
-<img align="right" alt="computer" width="250" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charleslamb212&label=Profile%20views&color=0e75b6&style=flat" alt="charleslamb212" /> </p>
 
 - 🌱 I’m currently learning **Python**
