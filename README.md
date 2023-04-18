@@ -1,6 +1,6 @@
 ![standard](https://user-images.githubusercontent.com/117604017/226823938-235ad89b-d971-4438-ac5d-3c87a6695285.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=30&pause=1000&color=9AF71A&width=435&lines=Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=30&pause=1000&color=9AF71A&center=true&width=435&lines=Web+Developer)](https://git.io/typing-svg)
 
 <h3 align="center">I'm a web developer based in the Bay Area, California. Professional with 15+ years of experience working for globally renowned companies with revenues ranging from $600m to $5.7b. Critical thinker with a passion for creating intuitive business solutions. Committed to staying current with emerging trends and technologies.</h3>
 
