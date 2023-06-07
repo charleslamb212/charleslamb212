@@ -1,6 +1,11 @@
-![standard](https://user-images.githubusercontent.com/117604017/226823938-235ad89b-d971-4438-ac5d-3c87a6695285.gif)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=30&pause=1000&color=9AF71A&center=true&width=435&lines=Application+Developer)](https://git.io/typing-svg)
+``` 
+_________ .__                 .__                  .____                  ___.    
+\_   ___ \|  |__ _____ _______|  |   ____   ______ |    |   _____    _____\_ |__  
+/    \  \/|  |  \\__  \\_  __ |  | _/ __ \ /  ___/ |    |   \__  \  /     \| __ \ 
+\     \___|   Y  \/ __ \|  | \|  |_\  ___/ \___ \  |    |___ / __ \|  Y Y  | \_\ \
+ \______  |___|  (____  |__|  |____/\___  /____  > |_______ (____  |__|_|  |___  /
+        \/     \/     \/                \/     \/          \/    \/      \/    \/ 
+```
 
 <h3 align="center">I'm an application developer based in the Bay Area, California. Critical thinker with a passion for creating intuitive business solutions. Committed to staying current with emerging trends and technologies.</h3>
 
